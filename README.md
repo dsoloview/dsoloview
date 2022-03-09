@@ -18,5 +18,5 @@
     - [GoogleCountBot](https://github.com/dsoloview/GoogleCountBot)
     - [Google Top10 Parser](https://github.com/dsoloview/Google_Top10_Parser)
 
-## Contact me:
-📫 My Telegram is @dsoloview
+## Contacts:
+https://t.me/dsoloview
