@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Dmitry Soloviev
-- 🖥 Now I'm working for a famous IT-agency as a Project Manager, before it I worked as Internet marketer
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning PHP, SQL, Git. Also I work with Python, HTML, CSS and Sass
-- ✨ And now I'm looking for a job as a junior web developer
+## About me:
 
-- 📫 My Telegram is @dsoloview
+👋 Hi, I’m Dmitry Soloviev
+🖥 Now I'm working for a famous IT-agency as a Project Manager, before it I worked as Internet marketer
+👀 I’m interested in becoming a web developer
+🌱 I’m currently learning PHP, SQL, Git. Also I work with Python, HTML, CSS and Sass
+✨ And now I'm looking for a job as a junior web developer
 
+## CodeWars:
 ![CodeWars](https://www.codewars.com/users/dsoloview/badges/large)
+
+## My Projects:
+- HTML/CSS.
+    - [Cuda](https://github.com/dsoloview/Cuda)
+    - [Minimo](https://github.com/dsoloview/Minimo)
+    - [ARShakir](https://github.com/dsoloview/ARShakir)
+- Python.
+    - [GoogleCountBot](https://github.com/dsoloview/GoogleCountBot)
+    - [Google Top10 Parser](https://github.com/dsoloview/Google_Top10_Parser)
+
+## Contact me:
+📫 My Telegram is @dsoloview
