@@ -19,4 +19,4 @@
     - [Google Top10 Parser](https://github.com/dsoloview/Google_Top10_Parser)
 
 ## Contacts:
-https://t.me/dsoloview
+[https://badges.aleen42.com/src/telegram.svg](https://t.me/dsoloview)
