@@ -10,11 +10,11 @@
 ![CodeWars](https://www.codewars.com/users/dsoloview/badges/large)
 
 ## My Projects:
-- HTML/CSS.
+- HTML/CSS
     - [Cuda](https://github.com/dsoloview/Cuda)
     - [Minimo](https://github.com/dsoloview/Minimo)
     - [ARShakir](https://github.com/dsoloview/ARShakir)
-- Python.
+- Python
     - [GoogleCountBot](https://github.com/dsoloview/GoogleCountBot)
     - [Google Top10 Parser](https://github.com/dsoloview/Google_Top10_Parser)
 
