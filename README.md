@@ -1,6 +1,6 @@
 ## About me:
 
-<p>👋 Hi, I’m Dmitry Soloviev</p>
+<p>👋 Hello, my name Dmitry Soloviev</p>
 <p>🖥 Now I'm working for a famous IT-agency as a Project Manager, before it I worked as Internet marketer</p>
 <p>👀 I’m interested in becoming a web developer</p>
 <p>🌱 I’m currently learning PHP, SQL, Git. Also I work with Python, HTML, CSS and Sass</p>
