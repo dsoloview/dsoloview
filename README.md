@@ -2,7 +2,6 @@
 
 <p>👋 Hello, my name Dmitry Soloviev</p>
 <p>🖥 I'm junior PHP developer</p>
-<p>👀 I’m interested in becoming a web developer</p>
 <p>🌱 I’m currently working with PHP, Laravel, HTML, CSS, Sass, Bash, SQL, Git, REST, JS</p>
 <p>✨ And now I'm looking for a job as a junior web developer</p>
 
