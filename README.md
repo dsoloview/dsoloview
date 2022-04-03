@@ -19,6 +19,7 @@
     - [Google Top10 Parser](https://github.com/dsoloview/Google_Top10_Parser)
 - PHP + Laravel
     - [Laravel Project](https://github.com/dsoloview/LaravelProject)
+    - [Laravel Furniture Shop](https://github.com/dsoloview/LaravelFurniture)
 
 ## Contacts:
 [![Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/dsoloview)
