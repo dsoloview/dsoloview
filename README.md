@@ -20,5 +20,8 @@
     - [Laravel Project](https://github.com/dsoloview/LaravelProject)
     - [Laravel Furniture Shop](https://github.com/dsoloview/LaravelFurniture)
 
+- WordPress
+    - [Fish Store site](https://xn----9sbwctocg6gc.xn--p1ai/)
+
 ## Contacts:
 [![Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/dsoloview)
