@@ -5,9 +5,6 @@
 <p>🌱 I’m currently working with PHP, Laravel, HTML, CSS, Sass, Bash, SQL, Git, REST, JS</p>
 <p>✨ And now I'm looking for a job as a junior web developer</p>
 
-## CodeWars:
-![CodeWars](https://www.codewars.com/users/dsoloview/badges/large)
-
 ## My Projects:
 - HTML/CSS
     - [Cuda](https://github.com/dsoloview/Cuda)
@@ -25,3 +22,7 @@
 
 ## Contacts:
 [![Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/dsoloview)
+
+## CodeWars:
+![CodeWars](https://www.codewars.com/users/dsoloview/badges/large)
+
