@@ -6,8 +6,7 @@
 <p>✨ And now I'm looking for a job as a junior web developer</p>
 
 ## Technologies:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 <p>👋 Hello, my name Dmitry Soloviev</p>
 <p>🖥 I'm junior PHP developer</p>
