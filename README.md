@@ -5,6 +5,14 @@
 <p>🌱 I’m currently working with PHP, Laravel, HTML, CSS, Sass, Bash, SQL, Git, REST, JS</p>
 <p>✨ And now I'm looking for a job as a junior web developer</p>
 
+## Technologies:
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p>👋 Hello, my name Dmitry Soloviev</p>
+<p>🖥 I'm junior PHP developer</p>
+<p>🌱 I’m currently working with PHP, Laravel, HTML, CSS, Sass, Bash, SQL, Git, REST, JS</p>
+<p>✨ And now I'm looking for a job as a junior web developer</p>
+
 ## My Projects:
 - HTML/CSS
     - [Cuda](https://github.com/dsoloview/Cuda)
