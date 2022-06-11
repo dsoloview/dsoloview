@@ -20,7 +20,7 @@
     - [Laravel REST API app](https://github.com/dsoloview/TestWork112425)
 
 - Go
-    - [Go weather bot]((https://github.com/dsoloview/goweatherbot)
+    - [Go weather bot](https://github.com/dsoloview/goweatherbot)
 
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dsoloview) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsoloview/)
