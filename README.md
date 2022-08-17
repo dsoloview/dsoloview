@@ -11,9 +11,6 @@
     - [Cuda](https://github.com/dsoloview/Cuda)
     - [Minimo](https://github.com/dsoloview/Minimo)
     - [ARShakir](https://github.com/dsoloview/ARShakir)
-- Python
-    - [GoogleCountBot](https://github.com/dsoloview/GoogleCountBot)
-    - [Google Top10 Parser](https://github.com/dsoloview/Google_Top10_Parser)
 - PHP + Laravel
     - [Laravel Project](https://github.com/dsoloview/LaravelProject)
     - [Laravel Furniture Shop](https://github.com/dsoloview/LaravelFurniture)
