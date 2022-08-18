@@ -15,6 +15,7 @@
     - [Laravel Project](https://github.com/dsoloview/LaravelProject)
     - [Laravel Furniture Shop](https://github.com/dsoloview/LaravelFurniture)
     - [Laravel REST API app](https://github.com/dsoloview/TestWork112425)
+    - [Laravel Pint pre-commit hook](https://github.com/dsoloview/laravel-pint-pre-commit)
 
 - Go
     - [Go weather bot](https://github.com/dsoloview/goweatherbot)
