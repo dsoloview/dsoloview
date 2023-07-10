@@ -33,6 +33,7 @@
     - [Laravel Furniture Shop](https://github.com/dsoloview/LaravelFurniture)
     - [Laravel Pint pre-commit hook package](https://github.com/dsoloview/laravel-pint-pre-commit)
     - [Laravel filters and sort package](https://github.com/dsoloview/laravel-filters-sort)
+    - [Laravel Yandex captcha package](https://github.com/dsoloview/laravel-yandex-captcha)
 
 - Go
     - [Go weather bot](https://github.com/dsoloview/goweatherbot)
