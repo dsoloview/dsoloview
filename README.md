@@ -41,6 +41,9 @@
 </div>  
 </div>
 </td><td valign="top" width="33%">
+</tr></table>  
+
+<br/>  
 
 ## My Projects:
 
