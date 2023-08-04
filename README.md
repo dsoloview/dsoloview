@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry Solovev</h1>  
-<h3 align="center">PHP/Laravel Backend Developer</h3>  
+<h3 align="center">PHP/Laravel/React Fullstack Developer</h3>  
 
 ## My Skill Set  
 <table style="border: none"><tr style="border: none"><td style="border: none" valign="top" width="33%">
