@@ -2,7 +2,7 @@
 <h3 align="center">PHP/Laravel/React Fullstack Developer</h3>  
 
 ## My Skill Set  
-<table style="border: none"><tr style="border: none"><td style="border: none" valign="top" width="33%">
+<table style="border: none;"><tr style="border: none;"><td style="border: none;" valign="top" width="33%">
 
 
 
@@ -56,18 +56,20 @@
 
 <br/>  
 
-## My Projects:
+## My Projects(More in public repositories):
 
-- PHP + Laravel
-    - [Laravel Project](https://github.com/dsoloview/LaravelProject)
-    - [Laravel Furniture Shop](https://github.com/dsoloview/LaravelFurniture)
+- Laravel packages
+    - [Laravel Yandex captcha package](https://github.com/dsoloview/laravel-yandex-captcha)
     - [Laravel Pint pre-commit hook package](https://github.com/dsoloview/laravel-pint-pre-commit)
     - [Laravel filters and sort package](https://github.com/dsoloview/laravel-filters-sort)
-    - [Laravel Yandex captcha package](https://github.com/dsoloview/laravel-yandex-captcha)
+    - [Laravel OpenID Connect client package](https://github.com/dsoloview/laravel-oidc-client)
 
-- Go
-    - [Go weather bot](https://github.com/dsoloview/goweatherbot)
-    - [Go REST](https://github.com/dsoloview/gorestapi) Started but not finished...
+- PHP
+    - [Enum decorator](https://github.com/dsoloview/php-enum-decorator)
+    - [Checkers](https://github.com/dsoloview/checkers)
+ 
+- PHP/React/Typescript
+    - [CRM](https://github.com/dsoloview/crm)
 
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dsoloview) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsoloview/)
