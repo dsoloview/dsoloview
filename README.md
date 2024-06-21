@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dmitry Solovev</h1>  
+<h1 align="center">Hi 👋, I'm Dmitrii Solovev</h1>  
 <h3 align="center">PHP/Laravel/React Fullstack Developer</h3>  
 
 ## My Skill Set  
