@@ -69,7 +69,7 @@
  
 - Projects
     - [Money Tracker backend](https://github.com/dsoloview/money_tracker)
-    - [Money Ttacker frontend](https://github.com/dsoloview/money_tracker_frontend)
+    - [Money Tracker frontend](https://github.com/dsoloview/money_tracker_frontend)
 
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dsoloview) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsoloview/)
