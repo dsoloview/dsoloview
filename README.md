@@ -7,7 +7,7 @@ Currently, I work at **Nexters** on the browser game *Hero Wars: Dominion Era*, 
 ---
 
 ### 🧠 About Me
-- 💻 Experienced with **PHP**, **C#**, **TypeScript**, **Laravel**, **React**, **Vue**, **Kafka**, **RabbitMQ**, **Redis**, and **Docker**  
+- 💻 Experienced with **PHP**, **TypeScript**, **Laravel**, **React**, **Vue**, **Kafka**, **RabbitMQ**, **Redis**, and **Docker**  
 - 🗄️ Database experience: **MySQL**, **PostgreSQL**, **ClickHouse**, **MongoDB**, **CouchDB**  
 - 🧩 Skilled in designing APIs, integrating services, and optimizing legacy systems  
 - 🚀 Passionate about maintainable code, system scalability, and performance  
@@ -15,7 +15,7 @@ Currently, I work at **Nexters** on the browser game *Hero Wars: Dominion Era*, 
 ---
 
 ### 🧰 Tech Stack
-**Backend:** PHP (Laravel), C#, Go, TypeScript  
+**Backend:** PHP (Laravel), Go, TypeScript  
 **Frontend:** React, Vue, TypeScript, SCSS  
 **Databases:** MySQL, PostgreSQL, Redis, ClickHouse, MongoDB  
 **Tools:** Docker, GitLab CI, Nginx, Linux  
