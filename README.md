@@ -1,41 +1,41 @@
-# 👋 Hi, I'm Dmitrii Solovev  
-### Senior Fullstack Engineer | PHP, Laravel, TypeScript
+# 👋 Hi, I'm Dmitrii Solovev
 
-I'm a fullstack engineer based in Zagreb, Croatia, passionate about building clean, scalable backend systems and intuitive frontend interfaces.  
-Currently, I work at **Nexters** on the browser game *Hero Wars: Dominion Era*, contributing to both backend and internal tools.
+### Senior Fullstack Engineer | PHP · TypeScript · Go
+
+4+ years building scalable backend systems and product-facing features.
+Based in Belgrade, Serbia.
 
 ---
 
 ### 🧠 About Me
-- 💻 Experienced with **PHP**, **TypeScript**, **Laravel**, **React**, **Vue**, **Kafka**, **RabbitMQ**, **Redis**, and **Docker**  
-- 🗄️ Database experience: **MySQL**, **PostgreSQL**, **ClickHouse**, **MongoDB**, **CouchDB**  
-- 🧩 Skilled in designing APIs, integrating services, and optimizing legacy systems  
-- 🚀 Passionate about maintainable code, system scalability, and performance  
+
+- 💻 Core stack: **PHP (Laravel)**, **TypeScript (React/Vue/Node)**, **Go**
+- 🗄️ Databases: **MySQL**, **PostgreSQL**, **ClickHouse**, **CouchDB**, **Redis**
+- 📨 Messaging: **Kafka**, **RabbitMQ**
+- 🐳 Tooling: **Docker**, **GitLab CI**, **Nginx**, **Linux**
+- 🌍 English — fluent | Serbian - fluent | German - learning
 
 ---
 
-### 🧰 Tech Stack
-**Backend:** PHP (Laravel), Go, TypeScript  
-**Frontend:** React, Vue, TypeScript, SCSS  
-**Databases:** MySQL, PostgreSQL, Redis, ClickHouse, MongoDB  
-**Tools:** Docker, GitLab CI, Nginx, Linux  
-
----
-
-### 🧩 Selected Projects
+### 🧩 Projects
 
 #### 🧱 Laravel Packages
-- [Laravel Yandex Captcha](https://github.com/dsoloview/laravel-yandex-captcha) – Simple integration of Yandex Smart Captcha  
-- [Laravel Pint Pre-Commit](https://github.com/dsoloview/laravel-pint-pre-commit) – Auto-formatting for Laravel projects  
-- [Laravel OIDC Client](https://github.com/dsoloview/laravel-oidc-client) – OpenID Connect authentication client  
+
+- [Laravel Yandex Captcha](https://github.com/dsoloview/laravel-yandex-captcha) – Yandex SmartCaptcha integration
+- [Laravel Pint Pre-Commit](https://github.com/dsoloview/laravel-pint-pre-commit) – Git pre-commit hook for Laravel Pint
+- [Laravel Filters & Sort](https://github.com/dsoloview/laravel-filters-sort) – Flexible query filtering and sorting via traits
+- [Laravel OIDC Client](https://github.com/dsoloview/laravel-oidc-client) – OpenID Connect authentication client
 
 #### ⚙️ PHP / General
-- [Enum Decorator](https://github.com/dsoloview/php-enum-decorator) – Decorator pattern for PHP enums  
+
+- [Enum Decorator](https://github.com/dsoloview/php-enum-decorator) – Proof-of-concept: multi-language enum translations via PHP 8 native attributes
+
+#### 🚀 Applications
+
+- [PreduzetnikHelper](https://github.com/dsoloview/PreduzentikHelper) – Business management tool for Serbian sole proprietors: invoices, KPO book, VAT & revenue tracking
+
 ---
 
 ### 📫 Contacts
+
 [LinkedIn](https://www.linkedin.com/in/dsoloview/) • [Telegram](https://t.me/dsoloview) • [Email](mailto:dsoloview44@gmail.com)
-
----
-
-⭐️ Feel free to explore my repositories and reach out — I’m always open to collaboration or interesting projects.
