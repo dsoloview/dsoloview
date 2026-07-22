@@ -13,7 +13,7 @@ Based in Belgrade, Serbia.
 - 🗄️ Databases: **MySQL**, **PostgreSQL**, **ClickHouse**, **CouchDB**, **Redis**
 - 📨 Messaging: **Kafka**, **RabbitMQ**
 - 🐳 Tooling: **Docker**, **GitLab CI**, **Nginx**, **Linux**
-- 🌍 English — fluent | Serbian - fluent | German - learning
+- 🌍 English — fluent | Serbian - fluent | German - A2
 
 ---
 
