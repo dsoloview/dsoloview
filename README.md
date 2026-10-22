@@ -2,7 +2,7 @@
 
 ### Senior Fullstack Engineer | PHP · TypeScript · Go
 
-4+ years building scalable backend systems and product-facing features.
+5+ years building scalable backend systems and product-facing features.
 Based in Belgrade, Serbia.
 
 ---
