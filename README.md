@@ -9,7 +9,7 @@ Based in Belgrade, Serbia.
 
 ### 🧠 About Me
 
-- 💻 Core stack: **PHP (Laravel)**, **TypeScript (React/Vue/Node)**, **Go**
+- 💻 Core stack: **PHP (Laravel)**, **TypeScript (React/Vue/Node)**, **Go**, **C#**
 - 🗄️ Databases: **MySQL**, **PostgreSQL**, **ClickHouse**, **CouchDB**, **Redis**
 - 📨 Messaging: **Kafka**, **RabbitMQ**
 - 🐳 Tooling: **Docker**, **GitLab CI**, **Nginx**, **Linux**
